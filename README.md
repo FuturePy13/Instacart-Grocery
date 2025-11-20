@@ -1,4 +1,4 @@
-# Repo-Proyecto-4
+
 “Repository containing a Data Analysis project with Pandas and included visualizations with Matplotlib.”
 
 Instacart is a grocery delivery platform where customers can place an order and have it delivered, similar to Uber Eats and DoorDash.
